@@ -1,0 +1,20 @@
+.date-style{
+    border-radius : 10;
+    box-shadow: 0 3px 6px rgb(0 0 0 / 0%), 0 3px 6px rgb(0 0 0 / 16%) !important; 
+     border-color : #707070,
+}
+.title-font{
+ font-size: 1.5rem !important;
+ color: #202E43;
+}
+.subtitle-font{
+font-size:1.1rem !important;
+color: #58595a;
+}
+.selectitem{
+    font-size: 0.9ren !important;
+}
+.norecord{
+    width: 10rem;
+    height: 10rem;
+}

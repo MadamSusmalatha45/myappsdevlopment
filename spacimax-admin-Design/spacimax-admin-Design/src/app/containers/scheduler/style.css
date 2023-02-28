@@ -1,0 +1,50 @@
+.error{
+    border  : 1px solid red !important;
+}
+.select_item {
+    font-size: 15px !important;
+    font-weight: 500 !important;
+    border: 0px !important;
+}
+
+.buttonRootAlt{
+    border-color: #707070 !important;
+    background-color: #42505C !important;
+    color: white !important;
+    border-radius: 8px !important;
+    font-size: 16px  !important;
+    text-transform: none !important;
+    padding: 5px 30px !important;
+    margin-right: 15px !important;
+}
+.txtHide{
+    display: none  !important;
+}
+
+.txtInp{
+    width: 350px !important;
+}
+#duration{
+    width: 184px !important; 
+}
+.box {
+    max-width: 25rem!important;
+}
+.fileclass{
+    font-size: 16px !important;
+    font-weight: 500 !important;
+    color: #004A8A !important;
+}
+/* .css-1uprd2n-MuiPaper-root {
+    width: 315px !important;
+} */
+.css-zkq7up-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root{
+    width: 200px !important;
+}
+.align{
+    max-width: 39.333333% !important;
+}
+.css-b62m3t-container {
+    z-index: 1000 !important;
+}
+ 

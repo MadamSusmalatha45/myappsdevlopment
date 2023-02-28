@@ -1,0 +1,28 @@
+.responsive-table {
+  /* display: block !important;
+    width: 100% !important;
+    overflow-x: auto !important; */
+}
+.table-header {
+  background-color: #daeeef;
+  font-weight: bold;
+}
+
+
+.file-class {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  letter-spacing: 0px !important;
+  opacity: 1;
+  color: #202e43 !important;
+  padding: 18px !important;
+}
+.add-title {
+  /* margin-right :  35px !important; */
+  font-size: 1.3em;
+  color: #75859d !important;
+  font-weight: 600 !important;
+}
+.add-icon {
+  color: #202e43 !important;
+}

@@ -1,0 +1,18 @@
+.timePicker{
+    border : 1px solid red
+}
+
+.modal-component{
+    width : '100%'
+}
+
+.selectitem{
+    font-size: 17px !important;
+    color: black;
+    font-weight: 500;
+}
+
+.css-15azosq{
+    box-shadow: 0 3px 6px rgb(0 0 0 / 0%), 0 3px 6px rgb(0 0 0 / 16%) !important; 
+}
+/* .box-shadow: 0 3px 6px rgb(0 0 0 / 0%), 0 3px 6px rgb(0 0 0 / 16%) */

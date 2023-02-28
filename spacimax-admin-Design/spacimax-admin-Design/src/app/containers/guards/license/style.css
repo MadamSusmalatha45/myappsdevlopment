@@ -1,0 +1,104 @@
+.license-card{
+    border : 1px solid gray;
+    padding : 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.card{
+    padding-left : 5px;
+    padding-right : 5px;
+    width : 100% !important
+}
+
+.card-txt{
+    display :block;
+    font-weight: 600;
+}
+
+.card-txt-title{
+    display: inline-block;
+    width : 40% !important;
+    font-weight: 600;
+}
+.card-txt-value{
+    display: inline-block;
+    width : 60% !important;
+    font-weight: 500;
+}
+
+.block{
+    display: block !important;
+    width : 100% !important
+}
+
+.card-main:hover .editBtn{
+    background-color: white !important;
+    cursor: pointer;
+    display: inline-block !important;
+}
+
+.card-main:hover{
+    background-color: gray !important;
+    color : white;
+    cursor: pointer;
+}
+
+.card-main:hover .deleteBtn{
+    background-color: white !important;
+    cursor: pointer;
+    display: inline-block !important;
+}
+.card-main:hover .downloadeBtn{
+    background-color: white !important;
+    cursor: pointer;
+    display: inline-block !important;
+}
+
+
+.card-main{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px !important;
+    position: relative !important;
+}
+
+.editBtn{
+    display : none !important;
+    position: absolute !important;
+    right : 0px !important;
+    top : 0px !important;
+    background-color: white !important;
+}
+
+.deleteBtn{
+    display : none !important;
+    position: absolute !important;
+    left : 0px !important;
+    top : 0px !important;
+    background-color: white !important;
+}
+.downloadeBtn{
+    display : none !important;
+    position: absolute !important;
+    bottom : 0px !important;
+    right:0px !important;
+    background-color: white !important;
+}
+
+.delete-txt{
+    margin-top : 40px ;
+}
+
+.license-pic{
+    right : 20px !important;
+    bottom: 40px !important;
+    width : 100px;
+    height: 70px;
+}
+
+.btn-div{
+    margin: 5px !important;
+   
+}
+.btn{
+    width: auto !important;
+    height: 20px !important;
+}

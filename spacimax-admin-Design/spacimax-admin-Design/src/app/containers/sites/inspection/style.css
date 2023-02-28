@@ -1,0 +1,70 @@
+.responsive-table {
+    /* display: block !important;
+    width: 100% !important;
+    overflow-x: auto !important; */
+  }
+.table-header{
+    background-color:  #DAEEEF;
+    font-weight: 500;
+}
+
+
+.file-class{
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    letter-spacing: 0px !important;
+    opacity: 1;
+    color : #004A8A !important;
+    padding : 18px !important;
+}
+.addtitle{
+    /* margin-right :  35px !important; */
+    font-size:1em !important;
+    color : #75859D !important;
+    font-weight: 500 !important;
+    margin : 0px 3px !important;
+}
+.add-icon{
+    color : #202E43 !important;
+}
+
+.add-icon:hover{
+    cursor: pointer !important;
+}
+
+.custom-table-cell{
+    display: flex !important;
+    align-items: center !important;
+    flex-wrap: wrap !important;
+    justify-content: space-between !important;
+    margin-right: 40px !important;
+}
+.MuiDialogTitle-root+.css-ypiqx9-MuiDialogContent-root {
+    height: auto !important;
+}
+
+.bold-font{
+    font-weight: bold !important;
+    font-size: 18px !important;
+    margin : 0px 10px !important;
+}
+
+.font-bold{
+    font-weight: bold !important;
+}
+
+.formBtn{
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.formBtn:hover{
+    cursor: pointer;
+    /* padding : 10px; */
+    background-color : grey;
+    color : white;
+    border-radius : 20px ;
+    -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}

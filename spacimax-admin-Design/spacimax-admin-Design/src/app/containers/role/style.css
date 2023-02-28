@@ -1,0 +1,41 @@
+.permission{
+    width : 70%;
+}
+
+.chkLabel{
+    
+    flex-wrap: wrap !important;
+
+}
+.css-ahj2mt-MuiTypography-root{
+    font-size: 0.8rem !important;
+    margin: 5px !important;
+}
+.btn-div{
+    margin: 5px !important;
+   
+}
+.btn{
+    width: auto !important;
+    height: 20px !important;
+}
+.check{
+    width: 0.9rem !important;
+    height: 0.9rem !important;
+    font-size: 0.8rem !important;
+}
+.role{
+    width : 15%;
+}
+.css-12jo7m5 {
+    color:rgb(48, 47, 47) !important;
+    font-weight: 600 !important;
+}
+.MuiDialogTitle-root+.css-ypiqx9-MuiDialogContent-root {
+   
+    height: auto !important;
+}
+.basic-multi-select{
+    color:rgb(48, 47, 47) !important;
+    font-weight: 600 !important;
+}

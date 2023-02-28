@@ -1,0 +1,102 @@
+.box-container{
+    background-color: white !important;
+    border-radius: 10px !important;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px !important;
+}
+
+.txt-input{
+    box-shadow: rgba(60, 64, 67, 0.15) 0px 1px 3px 1px !important;
+    width: 100% !important;
+    border-radius: 8px !important;
+    border-color: #CACED5 !important;
+    padding : 10px;
+    font-size: 16px;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+
+.txt-input-error{
+    box-shadow: rgba(60, 64, 67, 0.15) 0px 1px 3px 1px !important;
+    width: 100% !important;
+    border-radius: 8px !important;
+    border-color: red !important;
+    padding : 10px;
+    font-size: 16px;
+    font-family: "Roboto","Helvetica","Arial",sans-serif;
+}
+.btn-div{
+    margin: 5px !important;
+   
+}
+.btn{
+    width: auto !important;
+    height: 20px !important;
+}
+
+.grid-row{
+    margin : 5px 0px !important;
+}
+
+.select-item{
+    font-size: 19px !important;
+    font-weight: bold !important;
+    border : 0px  !important;
+}
+
+.btn-row{
+    display: flex !important;
+    margin-left : 10px !important;
+    margin-right: 10px !important; 
+    /* justify-content: space-between !important; */
+}
+
+.btn-row-center{
+    display: flex !important;
+    margin-left : 10px !important;
+    margin-right: 10px !important;
+    justify-content: center !important;
+}
+
+.row-btn{
+    border-color: #707070 !important;
+    color : #202E43 ;
+    border-radius: 8px !important;
+    font-size: 16px  !important;
+    text-transform: none !important;
+    padding: 0px 10px !important;
+    margin : 0px 10px !important;
+}
+
+.row-btn-alt{
+    border-color: #707070 !important;
+    /* color : #202E43 !important; */
+    border-radius: 8px !important;
+    font-size: 16px  !important;
+    text-transform: none !important;
+    padding: 0px 30px !important;
+    margin : 0px 20px !important;
+    background-color: #42505C !important;
+    color : white !important
+}
+
+.row-btn:hover{
+    background-color: #42505C !important;
+    color : white !important
+}
+
+.table-header{
+    background-color:  #DAEEEF;
+    font-weight: bold;
+}
+.btn-div-grid{
+    display: flex !important;
+    align-items: center !important;
+}
+
+.site{
+    font-weight: 500  !important;
+    font-size:1.3rem !important;
+}
+
+.error{
+    border : 1px solid red
+}

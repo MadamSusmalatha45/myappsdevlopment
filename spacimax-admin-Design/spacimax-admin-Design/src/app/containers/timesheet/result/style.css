@@ -1,0 +1,107 @@
+.responsive-table {
+    /* display: block !important;
+    width: 100% !important;
+    overflow-x: auto !important; */
+  }
+.table-header{
+    background-color:  #DAEEEF;
+    font-weight: bold;
+}
+
+.t-cell-bottom{
+    font-size: 15px !important;
+    letter-spacing: 0px !important;
+    font-weight: 600 !important;
+    color: #202E43 !important;
+    padding : 18px !important;
+}
+
+.file-class{
+    font-size: 18px !important;
+    font-weight: bold !important;
+    letter-spacing: 0px !important;
+    color : #004A8A !important;
+    padding : 18px !important;
+}
+.add-title{
+    /* margin-right :  35px !important; */
+    font-size:1.3em;
+    color : #75859D !important;
+    font-weight: 600 !important;
+}
+.add-icon{
+    color : #202E43 !important;
+}
+.select-item{
+    font-size: 15px !important;
+    font-weight: bold !important;
+    border : 0px  !important;
+}
+
+.select-input{
+    border-radius : 10;
+    border-color : #707070;
+    border-width : 4;
+    border : 0px  !important;
+}
+
+.btn-input{
+  color : #202E43 !important;
+  border : 1px solid #707070 !important;
+  border-radius: 12px !important;
+  padding : 5px 85px !important;
+  font-size: 1.3em !important;
+  background-color: #FFFFFF  !important;
+  font-weight: bold !important;
+  text-transform: none !important;
+}
+.small-box{
+    background-color: #FFFFFF !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px !important;
+    border-radius: 10px !important;
+}
+
+.box-heading{
+    color : #202E43 !important;
+    font-weight : 500 !important;
+    padding : 30px !important;
+}
+.hybrid-box{
+    padding : 30px 30px !important;
+    padding-bottom: 60px !important;
+
+}
+
+.hybrid-bottom-box{
+    padding : 50px 30px !important;
+    padding-bottom: 20px !important;
+
+}
+
+.hybrid-box-heading{
+    font-family: "Roboto","Helvetica","Arial",sans-serif !important; 
+    font-size: 17px !important;
+    font-weight: 500 !important;
+    color : #43425D !important;
+}
+.hybrid-box-value{
+    font-family: "Roboto","Helvetica","Arial",sans-serif !important;
+    font-size: 16px !important;
+    font-weight: 400 !important;
+    color : #43425D  !important;
+    margin-left : 5px !important;
+    padding: 10px !important;
+
+}
+.table-bottom{
+    padding-top: 10px !important;
+}
+.btn-input-dark{
+  color : white !important;
+  background-color: #42505C !important;
+  border-radius: 8px !important;
+  text-transform: none !important;
+  font-size: large !important;
+  padding : 0px 30px !important;
+}
+
